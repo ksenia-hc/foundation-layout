@@ -1,7 +1,7 @@
 # Foundation project
 
 This is landing page of Foundation company
-https://ksenia-hc.github.io/foundation-layout/
+https://friendly-fermi-afb719.netlify.app/
 
 ## Tech Stack
 
