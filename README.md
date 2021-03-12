@@ -1,7 +1,7 @@
 # Foundation project
 
 This is landing page of Foundation company
-https://ksenia-front-end.github.io/project1-Foundation/
+https://ksenia-hc.github.io/foundation-layout/
 
 ## Tech Stack
 
